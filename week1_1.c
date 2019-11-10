@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int n = 5;
+// So sánh 2 mảng
 
 int sosanh(int arr1[], int arr2[]);
 
